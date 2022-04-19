@@ -1,0 +1,26 @@
+
+# Tiffin Columbian 1981 Obituaries
+
+| Name                                                             | Date       | Age | Birth      | Resident Of       | Obituary | Other | 
+| :--------------------------------------------------------------: | ---------- | --- | ---------- | :---------------- | :-------- | :-----: | 
+| **James Roe**</br>![](jpgz/person.jpg)                           | 11/01/1979 | 16  | 01/18/1963 | Tiffin            | *Obituary not yet Identified* | [news](newz/James-Roe.md) | 
+| **William 'Bill" Zellner**</br>![](jpgz/person.jpg)              | 05/01/1980 | 17  | 03/10/1963 | Tiffin            | *Obituary not yet Identified* | [news](newz/Bill-Zellner.md) | 
+| **Charles "Chuck" Ward**</br>![](jpgz/person.jpg)                | 04/04/1981 | 18  | 03/31/1963 | Tiffin            | https://www.wikitree.com/wiki/Ward-3909 | [news](newz/Charles-Ward.md) | 
+| **Lance Fletcher**</br>![](jpgz/person.jpg)                      | 10/29/1989 | 26  | 10/22/1963 | Tiffin            | *Obituary not yet Identified* | [news](newz/Lance-Fletcher.md) | 
+| **Judith Bonham Hammer**</br>![](jpgz/person.jpg)                | 04/23/1993 | xx  | mm/dd/yyyy | ...               | *Obituary not yet Identified* | | 
+| **Frederick 'Fred" Traxler**</br>![](jpgz/person.jpg)            | 08/27/1994 | 31  | 01/24/1963 | Litchfield        | *Obituary not yet Identified* | [news](newz/Fred-Traxler.md) | 
+| **Raymond "Ray" Loesser**</br>![](jpgz/person.jpg)               | 09/04/2001 | xx  | mm/dd/yyyy | Tiffin            | https://www.traunerofuneralhome.com/obituary/DrRAYMOND-LOESSER | | 
+| **Jeffery "Jeff" Raitz**</br>![](jpgz/person.jpg)                | 02/09/2002 | 38  | 03/03/1963 | Mesquite, Texas   | http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=print_topic;f=9;t=044680 | https://www.youtube.com/watch?v=z1x5MdhlgXE | 
+| **Linda Tyree Fitzgerald**</br>![](jpgz/person.jpg)              | 05/13/2002 | 38  | 06/02/1963 | Tiffin            | https://www.traunerofuneralhome.com/obituary/LINDAGAILTyree-FITZGERALD | | 
+| **Jennifer "Jenny" Martin Kneeskern**</br>![](jpgz/JenniferKneeskern-obit)   | 02/09/2012 | 48  | 05/20/1963 | Tiffin | https://www.traunerofuneralhome.com/obituary/JENNIFER-KNEESKERN | | 
+| **Sheila Goshe Berry**</br>![](jpgz/person.jpg)                  | 12/21/2014 | 51  | 01/03/1963 | Tiffin            | https://www.gase.nl/Internettree/f12801.htm | | 
+| **Connie Lang**</br>![](jpgz/ConnieLange-obit.jpg)               | 06/02/2015 | 52  | 11/03/1962 | Port Clinton      | https://www.legacy.com/us/obituaries/portclintonnewsherald/name/connie-lang-obituary?pid=175009344 | | 
+| **James Davis**</br>![](jpgz/person.jpg)                         | 00/00/2017 | xx  | mm/dd/yyyy | ...               | *Obituary not yet Identified* | | 
+| **Douglas C. McIntyre**</br>![](jpgz/DouglasMcIntyre-obit.jpg)   | 01/10/2017 | 54  | 01/26/1962 | Fremont           | https://www.wonderlyhorvathhanesfuneralhome.com/douglas-c-mcintyre/ | | 
+| **Joseph "Joe" Turner**</br>![](jpgz/person.jpg)                 | 08/15/2018 | 55  | 05/19/1963 | Tiffin            | https://www.hgmackfuneralhome.com/obituary/Joseph-Turner | | 
+| **Josine "Josie" Bell**</br>![](jpgz/person.jpg)                 | 12/04/2018 | 57  | mm/dd/yyyy | Coldwater         | https://www.hgmackfuneralhome.com/obituary/JosineJosie-Bell | | 
+| **Belinda Bargaheiser Cavazos**</br>![](jpgz/BelindaCavazos-obit.webp)         | 09/21/2019 | 56  | 01/03/1963 | Marion | https://www.cremationservicesofohio.com/obituaries/Belinda-Cavazos/#!/Obituary | 
+| **Brent Whitmer**</br>![](jpgz/person.jpg)                       | 01/11/2020 | 57  | 09/26/1962 | Tiffin            | https://www.shookfamilyfh.com/obituary/Brent-Whitmer | | 
+| **Diane "DeeDee" Lange**</br>![](jpgz/DianeLange-obit.jpg)       | 04/26/2020 | 57  | 01/15/1963 | Tiffin            | https://www.shookfamilyfh.com/obituary/Diane-Lange | | 
+| **Lewis "Lew" Slemmer**</br>![](jpgz/LewisSlemmer-obit.jpg)      | 06/01/2021 | 58  | 03/21/1963 | Tiffin            | https://www.traunerofuneralhome.com/obituary/Lewis-Slemmer | | 
+| **Brad Boehler**</br>![](jpgz/BradBoehler-obit.jpg)              | 04/02/2022 | 59  | 11/19/1962 | Tiffin            | https://www.shookfamilyfh.com/obituary/Brad-Boehler | 
