@@ -7,7 +7,7 @@
 | **William 'Bill" Zellner**<br>![](jpgz/person.jpg)              | 05/01/1980 | 17  | 03/10/1963 | Tiffin            | *Obituary not yet Identified* | [news](newz/Bill-Zellner.md) |
 | **Charles "Chuck" Ward**<br>![](jpgz/person.jpg)                | 04/04/1981 | 18  | 03/31/1963 | Tiffin            | [Wiketree](<https://www.wikitree.com/wiki/Ward-3909>) | [news](newz/Charles-Ward.md) |
 | **Lance Fletcher**<br>![](jpgz/person.jpg)                      | 10/29/1989 | 26  | 10/22/1963 | Tiffin            | *Obituary not yet Identified* | [news](newz/Lance-Fletcher.md) |
-| **Judith Bonham Hammer**<br>![](jpgz/person.jpg)                | 04/23/1993 | xx  | mm/dd/yyyy | ...               | *Obituary not yet Identified* | |
+| **Judith Bonham Hammer**<br>![](jpgz/person.jpg)                | 04/23/1993 | xx  | 08/02/1963 | ...               | *Obituary not yet Identified* | |
 | **Frederick 'Fred" Traxler**<br>![](jpgz/person.jpg)            | 08/27/1994 | 31  | 01/24/1963 | Litchfield        | *Obituary not yet Identified* | [news](newz/Fred-Traxler.md) |
 | **Raymond "Ray" Loesser**<br>![](jpgz/person.jpg)               | 09/04/2001 | xx  | mm/dd/yyyy | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/DrRAYMOND-LOESSER>) | |
 | **Jeffery "Jeff" Raitz**<br>![](jpgz/person.jpg)                | 02/09/2002 | 38  | 03/03/1963 | Mesquite, Texas   | [Wrestling Classic](<http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=print_topic;f=9;t=044680>) | [Gary Young vs Jeff Raitz Power Pro April 18th, 1987](https://www.youtube.com/watch?v=z1x5MdhlgXE) |
