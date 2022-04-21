@@ -1,6 +1,8 @@
 
 # Tiffin Columbian 1981 Obituaries
 
+Back to [Tiffin Columbian](../README.md)
+
 | Name                                                            | Date       | Age | Birth      | Resident Of       | Obituary | Other |
 | :-------------------------------------------------------------: | ---------- | --- | ---------- | :---------------- | :-------- | :-----: |
 | **James Roe**<br>![](jpgz/person.jpg)                           | 11/01/1979 | 16  | 01/18/1963 | Tiffin            | *Obituary not yet Identified* | [news](newz/James-Roe.md) |
@@ -9,7 +11,7 @@
 | **Lance Fletcher**<br>![](jpgz/person.jpg)                      | 10/29/1989 | 26  | 10/22/1963 | Tiffin            | *Obituary not yet Identified* | [news](newz/Lance-Fletcher.md) |
 | **Judith Bonham Hammer**<br>![](jpgz/person.jpg)                | 04/23/1993 | xx  | mm/dd/yyyy | ...               | *Obituary not yet Identified* | |
 | **Frederick 'Fred" Traxler**<br>![](jpgz/person.jpg)            | 08/27/1994 | 31  | 01/24/1963 | Litchfield        | *Obituary not yet Identified* | [news](newz/Fred-Traxler.md) |
-| **Raymond "Ray" Loesser**<br>![](jpgz/person.jpg)               | 09/04/2001 | xx  | mm/dd/yyyy | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/DrRAYMOND-LOESSER>) | |
+| **Raymond "Ray" Loesser**<br>![](jpgz/person.jpg)               | 09/04/2001 | 38  | 08/02/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/DrRAYMOND-LOESSER>) | |
 | **Jeffery "Jeff" Raitz**<br>![](jpgz/person.jpg)                | 02/09/2002 | 38  | 03/03/1963 | Mesquite, Texas   | [Wrestling Classic](<http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=print_topic;f=9;t=044680>) | [Gary Young vs Jeff Raitz Power Pro April 18th, 1987](https://www.youtube.com/watch?v=z1x5MdhlgXE) |
 | **Linda Tyree Fitzgerald**<br>![](jpgz/person.jpg)              | 05/13/2002 | 38  | 06/02/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/LINDAGAILTyree-FITZGERALD>) | |
 | **Jennifer "Jenny" Martin Kneeskern**<br>![](jpgz/JenniferKneeskern-obit.jpg)   | 02/09/2012 | 48  | 05/20/1963 | Tiffin | [Traunero](<https://www.traunerofuneralhome.com/obituary/JENNIFER-KNEESKERN>) | |
