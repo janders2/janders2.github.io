@@ -26,6 +26,7 @@ Back to [Tiffin Columbian](../README.md)
 | **Diane "DeeDee" Lange**<br>![](jpgz/DianeLange-obit.jpg)       | 04/26/2020 | 57  | 01/15/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Diane-Lange>) | |
 | **Lewis "Lew" Slemmer**<br>![](jpgz/LewisSlemmer-obit.jpg)      | 06/01/2021 | 58  | 03/21/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/Lewis-Slemmer>) | |
 | **Brad Boehler**<br>![](jpgz/BradBoehler-obit.jpg)              | 04/02/2022 | 59  | 11/19/1962 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Brad-Boehler>) | |
+| **Tammy J. (Howard) Kinn**<br>![](jpgz/TammyKinn-obit.jpg)      | 06/15/2022 | 59  | 05/24/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/Tammy-Kinn>) | |
 
 # How You Can Help
 
