@@ -10,7 +10,7 @@ Back to [Tiffin Columbian](../README.md)
 | **Charles "Chuck" Ward**<br>![](jpgz/person.jpg)                | 04/04/1981 | 18  | 03/31/1963 | Tiffin            | [Wiketree](<https://www.wikitree.com/wiki/Ward-3909>) | [news](newz/Charles-Ward.md) |
 | **Lance Fletcher**<br>![](jpgz/person.jpg)                      | 10/29/1989 | 26  | 10/22/1963 | Tiffin            | *Obituary not yet Identified* | [news](newz/Lance-Fletcher.md) |
 | **Judith Bonham Hammer**<br>![](jpgz/person.jpg)                | 04/23/1993 | xx  | mm/dd/yyyy | ...               | *Obituary not yet Identified* | |
-| **Frederick 'Fred" Traxler**<br>![](jpgz/FredTraxler.jpg)       | 08/27/1994 | 31  | 01/24/1963 | Litchfield        | *Obituary not yet Identified* | [news](newz/Fred-Traxler.md) |
+| **Frederick 'Fred" Traxler**<br>![](jpgz/person.jpg)            | 08/27/1994 | 31  | 01/24/1963 | Litchfield        | *Obituary not yet Identified* | [news](newz/Fred-Traxler.md) |
 | **Raymond "Ray" Loesser**<br>![](jpgz/person.jpg)               | 09/04/2001 | 38  | 08/02/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/DrRAYMOND-LOESSER>) | |
 | **Jeffery "Jeff" Raitz**<br>![](jpgz/person.jpg)                | 02/09/2002 | 38  | 03/03/1963 | Mesquite, Texas   | [Wrestling Classic](<http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=print_topic;f=9;t=044680>) | [Gary Young vs Jeff Raitz Power Pro April 18th, 1987](https://www.youtube.com/watch?v=z1x5MdhlgXE) |
 | **Linda Tyree Fitzgerald**<br>![](jpgz/LindaTyree.jpg)          | 05/13/2002 | 38  | 06/02/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/LINDAGAILTyree-FITZGERALD>) | |
@@ -19,7 +19,7 @@ Back to [Tiffin Columbian](../README.md)
 | **Connie Lang**<br>![](jpgz/ConnieLange-obit.jpg)               | 06/02/2015 | 52  | 11/03/1962 | Port Clinton      | [Legacy](<https://www.legacy.com/us/obituaries/portclintonnewsherald/name/connie-lang-obituary?pid=175009344>) | |
 | **James Davis**<br>![](jpgz/JimDavis-obit.png)                  | 00/00/2017 | xx  | mm/dd/yyyy | San Francisco, CA | [Smart Wires Obituary](https://www.topionetworks.com/people/james-davis-5b545b04105eb56f88991231 "There is an annoying pop-up that appears within 10 seconds that eliminates your ability to view") | |
 | **Douglas C. McIntyre**<br>![](jpgz/DouglasMcIntyre-obit.jpg)   | 01/10/2017 | 54  | 01/26/1962 | Fremont           | [Wonderly Horvath Hanes](<https://www.wonderlyhorvathhanesfuneralhome.com/douglas-c-mcintyre>) | |
-| **Joseph "Joe" Turner**<br>![](jpgz/person.jpg)                 | 08/15/2018 | 55  | 05/19/1963 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/Joseph-Turner>) | |
+| **Joseph "Joe" Turner**<br>![](jpgz/JosephTurner.jpg)           | 08/15/2018 | 55  | 05/19/1963 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/Joseph-Turner>) | |
 | **Josine "Josie" Bell**<br>![](jpgz/JosieBell.jpg)              | 12/04/2018 | 57  | mm/dd/yyyy | Coldwater         | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/JosineJosie-Bell>) | |
 | [**Belinda Bargaheiser Cavazos**](jpgz/BelindaCavazos.jpg)<br>![](jpgz/BelindaCavazos-obit.webp)| 09/21/2019 | 56  | 01/03/1963 | Marion | [Cremation Services](<https://www.cremationservicesofohio.com/obituaries/Belinda-Cavazos/#!/Obituary>) |
 | **Brent Whitmer**<br>![](jpgz/person.jpg)                       | 01/11/2020 | 57  | 09/26/1962 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Brent-Whitmer>) | |
