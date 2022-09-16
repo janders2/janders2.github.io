@@ -28,6 +28,7 @@ Back to [Tiffin Columbian](../README.md)
 | **Brad Boehler**<br>![](jpgz/BradBoehler-obit.jpg)              | 04/02/2022 | 59  | 11/19/1962 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Brad-Boehler>) | |
 | **Tammy J. (Howard) Kinn**<br>![](jpgz/TammyKinn-obit.jpg)      | 06/15/2022 | 59  | 05/24/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/Tammy-Kinn>) | |
 | **Dennis Angelbeck**<br>![](jpgz/DennisAngelbeck-obit.jpg)      | 08/31/2022 | 59  | 08/02/1963 | New Riegel        | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/Dennis-Angelbeck>) | |
+| **Mark A. Frankart**<br>![](jpgz/person.jpg)                    | 09/09/2022 | 59  | 05/12/1963 | Bloomville        | [Shook Family](<https://www.shookfamilyfh.com/obituary/Mark-Frankart>) | |
 
 # How You Can Help
 
