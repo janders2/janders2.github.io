@@ -29,6 +29,7 @@ Back to [Tiffin Columbian](../README.md)
 | **Tammy J. (Howard) Kinn**<br>![](jpgz/TammyKinn-obit.jpg)      | 06/15/2022 | 59  | 05/24/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/Tammy-Kinn>) | |
 | **Dennis Angelbeck**<br>![](jpgz/DennisAngelbeck-obit.jpg)      | 08/31/2022 | 59  | 08/02/1963 | New Riegel        | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/Dennis-Angelbeck>) | |
 | **Mark A. Frankart**<br>![](jpgz/person.jpg)                    | 09/09/2022 | 59  | 05/12/1963 | Bloomville        | [Shook Family](<https://www.shookfamilyfh.com/obituary/Mark-Frankart>) | |
+| **Edward Lee "Ed" Sours**<br>![](jpgz/person.jpg)               | 09/13/2022 | 60  | 03/30/1962 | Tiffin            | [Hoening](<https://hoeningfuneralhome.secure.tributecenteronline.com/obituaries/Edward--Lee-Ed-Sours?obId=25886125>) | |
 
 # How You Can Help
 
