@@ -31,6 +31,7 @@ Back to [Tiffin Columbian](../README.md)
 | **Mark A. Frankart**<br>![](jpgz/person.jpg)                    | 09/09/2022 | 59  | 05/12/1963 | Bloomville        | [Shook Family](<https://www.shookfamilyfh.com/obituary/Mark-Frankart>) | |
 | **Edward Lee "Ed" Sours**<br>![](jpgz/Edward.Sours-obit.jpg)    | 09/13/2022 | 60  | 03/30/1962 | Tiffin            | [Hoening](<https://hoeningfuneralhome.secure.tributecenteronline.com/obituaries/Edward--Lee-Ed-Sours?obId=25886125>) | |
 | **Alex J. Rohrbach**<br>![](jpgz/AlexRohrbach-obit.jpg)         | 10/02/2022 | 59  | 09/06/1963 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/Alex-Rohrbach>) | |
+| **William "Bill" M. Black**<br>![](jpgz/BillBlack-obit.jfif)    | 09/22/2024 | 61  | 10/10/1962 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/WilliamBill-Black>) | |
 
 # How You Can Help
 
