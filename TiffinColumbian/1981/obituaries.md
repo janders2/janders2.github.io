@@ -23,15 +23,15 @@ Back to [Tiffin Columbian](../README.md)
 | **Josine "Josie" Bell**<br>![](jpgz/JosieBell.jpg)              | 12/04/2018 | 57  | mm/dd/yyyy | Coldwater         | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/JosineJosie-Bell>) | |
 | [**Belinda Bargaheiser Cavazos**](jpgz/BelindaCavazos.jpg)<br>![](jpgz/BelindaCavazos-obit.webp)| 09/21/2019 | 56  | 01/03/1963 | Marion | [Cremation Services](<https://www.cremationservicesofohio.com/obituaries/Belinda-Cavazos/#!/Obituary>) |
 | **Brent Whitmer**<br>![](jpgz/person.jpg)                       | 01/11/2020 | 57  | 09/26/1962 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Brent-Whitmer>) | |
-| [**Diane "DeeDee" Lange**](jpgz/DianeLange.jpg)<br>![](jpgz/DianeLange-obit.jpg) | 04/26/2020 | 57  | 01/15/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Diane-Lange>) | |
-| [**Lewis "Lew" Slemmer**](jpgz/LewisSlemmer.jpg)<br>![](jpgz/LewisSlemmer-obit.jpg)| 06/01/2021 | 58  | 03/21/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/Lewis-Slemmer>) | |
-| **Brad Boehler**<br>![](jpgz/BradBoehler-obit.jpg)              | 04/02/2022 | 59  | 11/19/1962 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Brad-Boehler>) | |
+| [**Diane "DeeDee" Lange**](jpgz/DianeLange.jpg)<br>![](jpgz/DianeLange-obit.jpg)      | 04/26/2020 | 57  | 01/15/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Diane-Lange>) | |
+| [**Lewis "Lew" Slemmer**](jpgz/LewisSlemmer.jpg)<br>![](jpgz/LewisSlemmer-obit.jpg)   | 06/01/2021 | 58  | 03/21/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/Lewis-Slemmer>) | |
+| [**Brad Boehler**](jpgz/BradBoehler.jpg)<br>![](jpgz/BradBoehler-obit.jpg)            | 04/02/2022 | 59  | 11/19/1962 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Brad-Boehler>) | |
 | **Tammy J. (Howard) Kinn**<br>![](jpgz/TammyKinn-obit.jpg)      | 06/15/2022 | 59  | 05/24/1963 | Tiffin            | [Traunero](<https://www.traunerofuneralhome.com/obituary/Tammy-Kinn>) | |
 | **Dennis Angelbeck**<br>![](jpgz/DennisAngelbeck-obit.jpg)      | 08/31/2022 | 59  | 08/02/1963 | New Riegel        | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/Dennis-Angelbeck>) | |
 | **Mark A. Frankart**<br>![](jpgz/person.jpg)                    | 09/09/2022 | 59  | 05/12/1963 | Bloomville        | [Shook Family](<https://www.shookfamilyfh.com/obituary/Mark-Frankart>) | |
 | **Edward Lee "Ed" Sours**<br>![](jpgz/Edward.Sours-obit.jpg)    | 09/13/2022 | 60  | 03/30/1962 | Tiffin            | [Hoening](<https://hoeningfuneralhome.secure.tributecenteronline.com/obituaries/Edward--Lee-Ed-Sours?obId=25886125>) | |
 | **Alex J. Rohrbach**<br>![](jpgz/AlexRohrbach-obit.jpg)         | 10/02/2022 | 59  | 09/06/1963 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/Alex-Rohrbach>) | |
-| **William "Bill" M. Black**<br>![](jpgz/BillBlack-obit.jfif)    | 09/22/2024 | 61  | 10/10/1962 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/WilliamBill-Black>) | |
+| [**William "Bill" M. Black**](jpgz/BillBlack.jpg)<br>![](jpgz/BillBlack-obit.jfif)    | 09/22/2024 | 61  | 10/10/1962 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/WilliamBill-Black>) | |
 
 # How You Can Help
 
