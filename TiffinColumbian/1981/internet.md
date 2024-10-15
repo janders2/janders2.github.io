@@ -1,7 +1,7 @@
 
 # Internet Research
 
-Back to [obituaries](obituaries.md)
+Back to **[Obituaries](obituaries.md)**
 
 At this point I do not offer any tips, per say.  There are huge wealth of information out there.
 When searching for an obituary, you might find multiple hits.  Choose the one with the least amount

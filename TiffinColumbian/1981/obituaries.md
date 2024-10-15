@@ -1,7 +1,7 @@
 
 # Tiffin Columbian 1981 Obituaries
 
-Back to [Tiffin Columbian](../README.md)
+Back to **[Tiffin Columbian](../README.md)** --- **[Past Reunions](pastReunions.md)**
 
 | Name                                                            | Date       | Age | Birth      | Resident Of       | Obituary | Other |
 | :-------------------------------------------------------------: | ---------- | --- | ---------- | :---------------- | :-------- | :-----: |

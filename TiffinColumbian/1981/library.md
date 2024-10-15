@@ -1,7 +1,7 @@
 
 # Library Research
 
-Back to [obituaries](obituaries.md)
+Back to **[Obituaries](obituaries.md)**
 
 Before the year 2000, there were not many internet postings for obituaries.  Well
 there wasn't much of any internet at all.  There was the newspaper, though, and at

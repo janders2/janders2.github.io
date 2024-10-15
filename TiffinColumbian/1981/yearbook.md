@@ -1,7 +1,7 @@
 
 # Yearbook Research
 
-Back to [obituaries](obituaries.md)
+Back to **[Obituaries](obituaries.md)**
 
 I opted not to include yearbook photos in this iteration of this service.
 My reasoning is that photo-shopping is a very tedious process, and if I went that route,

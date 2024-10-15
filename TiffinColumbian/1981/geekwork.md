@@ -1,7 +1,7 @@
 
 # Geek Work
 
-Back to [obituaries](obituaries.md)
+Back to **[Obituaries](obituaries.md)**
 
 First off, do not let the title of this page insinuate that this is a 
 *male-oriented* task.  I know plenty of female `geeks`, if you will, and
