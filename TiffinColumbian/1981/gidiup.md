@@ -7,7 +7,7 @@ These are necessary steps to use GitHub on a standalone basis:
 
 ## Install Software:
 
-GitBash
+Install `Git BASH` and `Git GUI` from the singular **Download** at [gitforwindows.org](https://gitforwindows.org/)
 
 blah, blah
 
@@ -27,6 +27,8 @@ For Windows users, the containing directory might be `C:\Users\username\.ssh`.
     cat ~/.ssh/id_rsa.pub
 ```
 
+If you get:
+
     No such file or directory
 
 2. Generate a new SSH key pair using "xxxxxxx" as the passphrase:
@@ -39,6 +41,10 @@ secure format.
 ```sh
 ssh-keygen -o -t rsa -b 4096 -C "john.anderson@sapns2.com"
 ```
+
+## Get a GitHub Account:
+
+xxxx
 
 ## Personalize GIT:
 
@@ -54,3 +60,12 @@ Do the following:
  git clone https://github.com/janders2/janders2.github.io.git
 ```
 
+Other helpful commands:
+```
+git --version
+git config --global user.name "your name"
+git config --global user.email "your email address"
+git config --list --local --show-origin
+cat $HOME/.gitconfig
+git remote -v
+```
