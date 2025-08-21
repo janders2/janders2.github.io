@@ -32,6 +32,7 @@ Back to **[Tiffin Columbian](../README.md)** --- **[Past Reunions](pastReunions.
 | **Edward Lee "Ed" Sours**<br>![](jpgz/Edward.Sours-obit.jpg)    | 09/13/2022 | 60  | 03/30/1962 | Tiffin            | [Hoening](<https://hoeningfuneralhome.secure.tributecenteronline.com/obituaries/Edward--Lee-Ed-Sours?obId=25886125>) | |
 | **Alex J. Rohrbach**<br>![](jpgz/AlexRohrbach-obit.jpg)         | 10/02/2022 | 59  | 09/06/1963 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/Alex-Rohrbach>) | |
 | [**William "Bill" M. Black**](jpgz/BillBlack.jpg)<br>![](jpgz/BillBlack-obit.jfif)    | 09/22/2024 | 61  | 10/10/1962 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/WilliamBill-Black>) | |
+| **Timothy Vassalle**<br>![](jpgz/TimothyVassalle-obit.jpg)      | 08/08/2025 | 62  | 04/09/1963 | Tiffin            | [Hufford Family](<https://www.huffordfh.com/obituary/Timothy-Vassalle>) | |
 
 # How You Can Help
 
