@@ -33,6 +33,7 @@ Back to **[Tiffin Columbian](../README.md)** --- **[Past Reunions](pastReunions.
 | **Alex J. Rohrbach**<br>![](jpgz/AlexRohrbach-obit.jpg)         | 10/02/2022 | 59  | 09/06/1963 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/Alex-Rohrbach>) | |
 | [**William "Bill" M. Black**](jpgz/BillBlack.jpg)<br>![](jpgz/BillBlack-obit.jfif)    | 09/22/2024 | 61  | 10/10/1962 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/WilliamBill-Black>) | |
 | **Timothy Vassalle**<br>![](jpgz/TimothyVassalle-obit.jpg)      | 08/08/2025 | 62  | 04/09/1963 | Tiffin            | [Hufford Family](<https://www.huffordfh.com/obituary/Timothy-Vassalle>) | |
+| **Stephen Birch Jr.**<br>![](jpgz/StephenBirchJr-obit.jpg)      | 11/06/2025 | 62  | 09/17/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Stephen-BirchJr>) | |
 
 # How You Can Help
 
