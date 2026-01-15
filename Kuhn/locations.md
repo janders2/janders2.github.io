@@ -4,6 +4,11 @@
 These are all recent photos of important locations.  If you have time-dated photos, send them to me and
 I will add them so that you can flip back and forth.
 
+This is [Our Family Tree](https://www.gase.nl/Internettree/f5955.htm) as recorded by **The Family Tree of the American Gase** family.
+It is not updated that much any more, but you can email Ronald Gase with corrections (see the bottom of each page); I have done it
+before and eventually he will respond. *Mr. Gase lives in Germany and somehow has ties to Tiffin and sometimes visits*.
+You can follow our ancestories back many generations on Mom and Dad's side.
+
 ****************
 
 **1138 County Road 13**<br>![](jpgz/1138-cr13.jpg)              
@@ -48,10 +53,12 @@ The Kuhn house.
 ****************
 
 **328 Greenfield Street**<br>![](jpgz/328-greenfield.jpg)
+
 Mom's best friend lived here.  I only included it because Mom was so fond of her
 experiences there.
 
 **The Sledding Hill**<br>![](jpgz/sledding-hill.jpg)
+
 Where we used to go sledding; Bull run.
 
 ****************
