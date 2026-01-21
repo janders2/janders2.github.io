@@ -34,6 +34,7 @@ Back to **[Tiffin Columbian](../README.md)** --- **[Past Reunions](pastReunions.
 | [**William "Bill" M. Black**](jpgz/BillBlack.jpg)<br>![](jpgz/BillBlack-obit.jfif)    | 09/22/2024 | 61  | 10/10/1962 | Tiffin            | [HG Mack](<https://www.hgmackfuneralhome.com/obituary/WilliamBill-Black>) | |
 | **Timothy Vassalle**<br>![](jpgz/TimothyVassalle-obit.jpg)      | 08/08/2025 | 62  | 04/09/1963 | Tiffin            | [Hufford Family](<https://www.huffordfh.com/obituary/Timothy-Vassalle>) | |
 | **Stephen Birch Jr.**<br>![](jpgz/StephenBirchJr-obit.jpg)      | 11/06/2025 | 62  | 09/17/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Stephen-BirchJr>) | |
+| **Christine A. Hartman**<br>![](jpgz/ChristineHartman-obit.jpg) | 01/14/2026 | 63  | 01/24/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Christine-Hartman>) | |
 
 # How You Can Help
 
