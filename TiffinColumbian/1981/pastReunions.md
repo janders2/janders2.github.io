@@ -18,7 +18,10 @@ this is my own attempt to duplicate the effort:
 | 40 year | Somewhere off 101                   | 08/08/2021 | Julie Morris, John Anderson...  |
 | 45 year | Heidelberg College Campus Center, Wickham Great Hall, 6:00 PM | 08/01/2026 | Cheryl Staib, ...  |
 
-- Open this PDF for registration details of our 45th reunion on August 1st: **[TCHS 1981.pdf](./1981/pdf/TCHS-1981.pdf)**
+- Open this PDF for registration details of our 45th reunion on August 1st: **[TCHS 1981.pdf](./pdf/TCHS-1981.pdf)**
+
+- This is a direct link to our classmates.com reunion center:  [Class of 1981 reunions](https://www.classmates.com/reunions/Columbian-High-School/class-of-1981/2649635)
+which requires an account (very easy to setup) to authenticate.  We invite you to respond to the `Who's going?` survey.
 
 - If you are an alumni of TC 1981 and notice an error in past reunions that I have gathered so far,
 please [contact me](./1981/contactme.md).  ***There are lots of mistakes to be corrected!***
