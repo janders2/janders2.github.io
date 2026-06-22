@@ -35,6 +35,7 @@ Back to **[Tiffin Columbian](../README.md)** --- **[Past Reunions](pastReunions.
 | **Timothy Vassalle**<br>![](jpgz/TimothyVassalle-obit.jpg)      | 08/08/2025 | 62  | 04/09/1963 | Tiffin            | [Hufford Family](<https://www.huffordfh.com/obituary/Timothy-Vassalle>) | |
 | **Stephen Birch Jr.**<br>![](jpgz/StephenBirchJr-obit.jpg)      | 11/06/2025 | 62  | 09/17/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Stephen-BirchJr>) | |
 | **Christine A. Hartman**<br>![](jpgz/ChristineHartman-obit.jpg) | 01/14/2026 | 63  | 01/24/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Christine-Hartman>) | |
+| **Sandra M. Hartzell**<br>![](jpgz/SandraHartzell-obit.jpg)     | 06/10/2026 | 63  | 05/21/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Sandra-Hartzell>) | |
 
 # How You Can Help
 
