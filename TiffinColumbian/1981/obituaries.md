@@ -37,7 +37,7 @@ Back to **[Tiffin Columbian](../README.md)** --- **[Past Reunions](pastReunions.
 | **Christine A. Hartman**<br>![](jpgz/ChristineHartman-obit.jpg) | 01/14/2026 | 62  | 01/24/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Christine-Hartman>) | |
 | **Sandra M. (Stinchcomb) Hartzell**<br>![](jpgz/SandraHartzell-obit.jpg) | 06/10/2026 | 63  | 05/21/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Sandra-Hartzell>) | |
 | **Kelly Munn**<br>![](jpgz/KellyMunn-obit.jpg)                  | 07/09/2026 | 63  |            | Cortland          | [The Advertiser Tribune](<https://obituaries.advertiser-tribune.com/us/obituaries/advertiser-tribune/name/kelly-munn-obituary?id=61937049>) | |
-| **Brenda Hamilton Kreh**<br>![](jpgz/BrendaHamilton.jpg)        | 07/15/2026 | 63  |            | Findlay           | [The Findlay Courier](<https://obituaries.thecourier.com/us/obituaries/thecourier/name/brenda-kreh-obituary?id=61980176>) | |
+| **Brenda Hamilton Kreh**<br>![](jpgz/person.jpg)        | 07/15/2026 | 63  |            | Findlay           | [The Findlay Courier](<https://obituaries.thecourier.com/us/obituaries/thecourier/name/brenda-kreh-obituary?id=61980176>) | |
 
 # How You Can Help
 
