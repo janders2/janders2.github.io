@@ -1,6 +1,14 @@
 
 # Tiffin Columbian 1981 Obituaries - List
 
+This QR Code will get you to the master list with photos:
+
+![TiffinColumbian/1981/obituaries](qrz/obituaries.png)
+
+https://janders2.github.io/TiffinColumbian/1981/obituaries.html
+
+Names in **Bold** represent deaths since our last reunion:
+
 | Name                                    | Date       | Age | Birth      | Resident Of       | Obituary  | Other   |
 | :-------------------------------------: | ---------- | --- | ---------- | :---------------- | :-------- | :-----: |
 | James Roe                           | 11/01/1979 | 16  | 01/18/1963 | Tiffin            | *Obituary not yet Identified* | [news](newz/James-Roe.md) |
