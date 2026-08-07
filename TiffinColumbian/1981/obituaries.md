@@ -36,7 +36,7 @@ Back to **[Tiffin Columbian](../README.md)** --- **[Past Reunions](pastReunions.
 | **Stephen Birch Jr.**<br>![](jpgz/StephenBirchJr-obit.jpg)      | 11/06/2025 | 62  | 09/17/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Stephen-BirchJr>) | |
 | [**Christine A. Hartman**](jpgz/ChristineHartman.jpg)<br>![](jpgz/ChristineHartman-obit.jpg) | 01/14/2026 | 62  | 01/24/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Christine-Hartman>) | |
 | [**Sandra M. (Stinchcomb) Hartzell**](jpgz/SandraHartzell.jpg)<br>![](jpgz/SandraHartzell-obit.jpg) | 06/10/2026 | 63  | 05/21/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Sandra-Hartzell>) | |
-| [**Kelly Munn**](jpgz/KellyMunn.jpg)<br>![](jpgz/KellyMunn-obit.jpg)                  | 07/09/2026 | 63  |            | Cortland          | [The Advertiser Tribune](<https://obituaries.advertiser-tribune.com/us/obituaries/advertiser-tribune/name/kelly-munn-obituary?id=61937049>) | |
+| [**Kelly Munn**](jpgz/KellyMunn.jpg)<br>![](jpgz/KellyMunn-obit.jpg)                  | 07/09/2026 | 63  | 12/23/1962 | Cortland          | [The Advertiser Tribune](<https://obituaries.advertiser-tribune.com/us/obituaries/advertiser-tribune/name/kelly-munn-obituary?pid=211947289>) | |
 | [**Brenda Hamilton Kreh**](jpgz/BrendaHamilton.jpg)<br>![](jpgz/BrendaHamilton-obit.webp) | 07/15/2026 | 63  | 03/09/1963 | Findlay           | [Colden-Crates Funeral Home](<https://www.coldrencrates.com/obituaries/Brenda-Renee-Kreh?obId=49098746>) | |
 
 # How You Can Help

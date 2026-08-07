@@ -42,5 +42,5 @@ Names in **Bold** represent deaths since our last reunion:
 | **Stephen Birch Jr.**                   | 11/06/2025 | 62  | 09/17/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Stephen-BirchJr>) | |
 | **Christine A. Hartman**                | 01/14/2026 | 62  | 01/24/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Christine-Hartman>) | |
 | **Sandra M. (Stinchcomb)**              | 06/10/2026 | 63  | 05/21/1963 | Tiffin            | [Shook Family](<https://www.shookfamilyfh.com/obituary/Sandra-Hartzell>) | |
-| **Kelly Munn**                          | 07/09/2026 | 63  |            | Cortland          | [The Advertiser Tribune](<https://obituaries.advertiser-tribune.com/us/obituaries/advertiser-tribune/name/kelly-munn-obituary?id=61937049>) | |
+| **Kelly Munn**                          | 07/09/2026 | 63  | 12/23/1962 | Cortland          | [The Advertiser Tribune](<https://obituaries.advertiser-tribune.com/us/obituaries/advertiser-tribune/name/kelly-munn-obituary?id=61937049>) | |
 | **Brenda Hamilton Kreh**                | 07/15/2026 | 63  | 03/09/1963 | Findlay           | [Colden-Crates Funeral Home](<https://www.coldrencrates.com/obituaries/Brenda-Renee-Kreh?obId=49098746>) | |
