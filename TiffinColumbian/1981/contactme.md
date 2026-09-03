@@ -14,4 +14,4 @@ Please let me know.
 
 Try contacting me via Messenger.  Search for John Anderson.  You will know it is me if you see:
 
-![MessengerPhoto](MessengerPhoto.jpg "That is me getting an autograph from the great Polish Hammer - Marcin Gortat - formerly of the Washington Wizards")
+![MessengerPhoto](MessengerPhoto.jpg "That is me playing the trombone at the Seneca County courthouse in Tiffin, Ohio")
